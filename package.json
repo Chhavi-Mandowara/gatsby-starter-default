@@ -36,5 +36,9 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
-  }
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "packageManager": "yarn@4.4.1"
 }
