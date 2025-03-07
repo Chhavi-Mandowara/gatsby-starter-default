@@ -38,7 +38,8 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "engines": {
-    "node": "20.x"
+    "node": "22.x"
   },
-  "packageManager": "pnpm@9.11.0"
+  "nodeVersion": "process.version",
+  "packageManager": "pnpm@9.10.1"
 }
