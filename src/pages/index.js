@@ -44,6 +44,7 @@ const samplePageLinks = [
   { text: "TypeScript", url: "using-typescript" },
   { text: "Server Side Rendering", url: "using-ssr" },
   { text: "Deferred Static Generation", url: "using-dsg" },
+  { text: "Streaming Test", url: "streaming-test", description: "Test chunked transfer encoding streaming" },
 ]
 
 const moreLinks = [
